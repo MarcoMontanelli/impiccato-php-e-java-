@@ -1,2 +1,2 @@
 # impiccato-php-e-java-
-(non funzioanti reichiedono modifiche
+java funzionante e completo ma senza gui
